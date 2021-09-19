@@ -1,0 +1,126 @@
+#container{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p{
+    text-align: justify;
+}
+
+#one,#six{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-weight: bold;
+}
+
+.top{
+    border: 1px solid black;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+hr{
+    border: 1px solid black;
+}
+
+#two{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+#three{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+#threecontenthead{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+#threecontentmatter{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+#threecontentone{
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+#threecontenttwo{
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+#threeimage{
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+#four{
+    margin-bottom: 20px;
+}
+
+#fourhead{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+#fourcontent{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+#fourcontentone{
+    margin-right: 20px;
+}
+
+.redtag{
+    background-color: red;
+    color: white;
+    width: 20%;
+    margin: none;
+    font-style: italic;
+}
+
+#fivehead{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+#fivecontent{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+#fivecontentone{
+    width: 30%;
+    margin-left: 20px;
+    
+}
+#fivecontenttwo{
+    width: 30%;
+    
+}
+#fivecontentimage{
+    margin-right: 20px;
+}
+
+#high{
+    font-size: 170%;
+    text-align: center;
+    color: red;
+    font-weight: bold;
+}
